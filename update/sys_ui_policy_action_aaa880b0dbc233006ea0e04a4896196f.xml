@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>work_notes</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 09:26:37</sys_created_on>
+        <sys_id>aaa880b0dbc233006ea0e04a4896196f</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>work_notes</sys_name>
+        <sys_package display_value="sinduit" source="x_366658_sinduit">14db3d10db0233006ea0e04a48961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">14db3d10db0233006ea0e04a48961938</sys_scope>
+        <sys_update_name>sys_ui_policy_action_aaa880b0dbc233006ea0e04a4896196f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 09:40:08</sys_updated_on>
+        <table>x_366658_sinduit_log_incident</table>
+        <ui_policy display_value="make short description mandatory">9e878cbcdb8233006ea0e04a48961976</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

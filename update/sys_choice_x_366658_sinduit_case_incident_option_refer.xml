@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="option_refer" table="x_366658_sinduit_case_incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>option_refer</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>latest updates</label>
+            <language>en</language>
+            <name>x_366658_sinduit_case_incident</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:47:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97230b94dbc233006ea0e04a489619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:47:26</sys_updated_on>
+            <value>latest updates</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>option_refer</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>refer tools</label>
+            <language>en</language>
+            <name>x_366658_sinduit_case_incident</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:43:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4503cb94dbc233006ea0e04a4896196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:43:37</sys_updated_on>
+            <value>refer tools</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>option_refer</element>
+            <name>x_366658_sinduit_case_incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:43:37</sys_created_on>
+            <sys_id>dc134794dbc233006ea0e04a48961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>option_refer</sys_name>
+            <sys_package display_value="sinduit" source="x_366658_sinduit">14db3d10db0233006ea0e04a48961938</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sinduit">14db3d10db0233006ea0e04a48961938</sys_scope>
+            <sys_update_name>sys_choice_x_366658_sinduit_case_incident_option_refer</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:43:37</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

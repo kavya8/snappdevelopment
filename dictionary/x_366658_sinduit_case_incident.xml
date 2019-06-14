@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="case incident" max_length="40" name="x_366658_sinduit_case_incident" sizeclass="1" type="collection">
+        <element label="affected user" max_length="32" name="affected_user" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="background" max_length="1000" name="background" type="color"/>
+        <element choice="1" label="Options" max_length="1000" name="options" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="refer tools" value="refer tools"/>
+                <element inactive_on_update="false" label="software updations" value="software updations"/>
+            </choice>
+        </element>
+        <element choice="1" label="Option refer" max_length="5667" name="option_refer" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="latest updates" value="latest updates"/>
+                <element inactive_on_update="false" label="refer tools" value="refer tools"/>
+            </choice>
+        </element>
+    </element>
+</database>

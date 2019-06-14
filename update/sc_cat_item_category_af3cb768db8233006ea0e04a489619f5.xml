@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="create log incident">776a3728db8233006ea0e04a48961954</sc_cat_item>
+        <sc_category display_value="sriinduit hardware">42e1936cdb0233006ea0e04a48961927</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 08:31:55</sys_created_on>
+        <sys_id>af3cb768db8233006ea0e04a489619f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sriinduit hardware.create log incident</sys_name>
+        <sys_package display_value="sinduit" source="x_366658_sinduit">14db3d10db0233006ea0e04a48961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">14db3d10db0233006ea0e04a48961938</sys_scope>
+        <sys_update_name>sc_cat_item_category_af3cb768db8233006ea0e04a489619f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 08:31:55</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

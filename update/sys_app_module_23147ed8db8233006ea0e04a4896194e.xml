@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="log incident">00628658db0233006ea0e04a48961979</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="change_request">risk=^EQ<item endquery="false" field="risk" goto="false" newquery="false" operator="=" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>this is the module in log incident application menu</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>case information</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>change_request</name>
+        <order>20</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>impersonator,import_admin,itil</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 08:43:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>23147ed8db8233006ea0e04a4896194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>case information</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sinduit" source="x_366658_sinduit">14db3d10db0233006ea0e04a48961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">14db3d10db0233006ea0e04a48961938</sys_scope>
+        <sys_update_name>sys_app_module_23147ed8db8233006ea0e04a4896194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 08:43:18</sys_updated_on>
+        <timeline_page/>
+        <title>case information</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

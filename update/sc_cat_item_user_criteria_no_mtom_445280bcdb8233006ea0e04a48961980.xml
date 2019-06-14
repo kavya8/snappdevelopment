@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="sindu sales laptop">8752d76cdb0233006ea0e04a489619b0</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 08:59:43</sys_created_on>
+        <sys_id>445280bcdb8233006ea0e04a48961980</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sindu sales laptop.item not exist</sys_name>
+        <sys_package display_value="sinduit" source="x_366658_sinduit">14db3d10db0233006ea0e04a48961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">14db3d10db0233006ea0e04a48961938</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_445280bcdb8233006ea0e04a48961980</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 08:59:43</sys_updated_on>
+        <user_criteria display_value="item not exist">1a7244bcdb8233006ea0e04a489619f3</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>

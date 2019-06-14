@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="log incident backup1" max_length="40" name="x_366658_sinduit_log_incident_backup1" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="short description" max_length="40" name="short_description" type="string"/>
+    </element>
+</database>
