@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="case incident" max_length="40" name="x_366658_sinduit_case_incident" sizeclass="1" type="collection">
+    <element extends="task" label="case incident" max_length="40" name="x_366658_sinduit_case_incident" type="collection">
         <element label="affected user" max_length="32" name="affected_user" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
         <element label="background" max_length="1000" name="background" type="color"/>
         <element choice="1" label="Options" max_length="1000" name="options" type="choice">

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="catagory" table="x_366658_sinduit_log_incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>desktop</label>
+            <language>en</language>
+            <name>x_366658_sinduit_log_incident</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 05:27:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af25a9d9db0233006ea0e04a489619b9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 05:50:24</sys_updated_on>
+            <value>67</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>hardware</label>
+            <language>en</language>
+            <name>x_366658_sinduit_log_incident</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 05:26:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2005a9d9db0233006ea0e04a489619b9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 05:50:33</sys_updated_on>
+            <value>78</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>catagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>software</label>
+            <language>en</language>
+            <name>x_366658_sinduit_log_incident</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 05:27:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>451529d9db0233006ea0e04a4896199f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 05:53:26</sys_updated_on>
+            <value>78</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>catagory</element>
+            <name>x_366658_sinduit_log_incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 05:26:54</sys_created_on>
+            <sys_id>8d1561d9db0233006ea0e04a48961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>catagory</sys_name>
+            <sys_package display_value="sinduit" source="x_366658_sinduit">14db3d10db0233006ea0e04a48961938</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sinduit">14db3d10db0233006ea0e04a48961938</sys_scope>
+            <sys_update_name>sys_choice_x_366658_sinduit_log_incident_catagory</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 05:26:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

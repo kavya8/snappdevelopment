@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_366658_sinduit_log_incident</name>
+        <name>x_366658_sinduit_log_incident_backup1</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-06-11 05:00:59</sys_created_on>
-        <sys_id>9c628658db0233006ea0e04a489619b6</sys_id>
+        <sys_created_on>2019-06-13 05:52:53</sys_created_on>
+        <sys_id>3c32a519db0233006ea0e04a489619b8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_366658_sinduit_log_incident</sys_name>
+        <sys_name>x_366658_sinduit_log_incident_backup1</sys_name>
         <sys_package display_value="sinduit" source="x_366658_sinduit">14db3d10db0233006ea0e04a48961938</sys_package>
         <sys_policy/>
         <sys_scope display_value="sinduit">14db3d10db0233006ea0e04a48961938</sys_scope>
-        <sys_update_name>ua_table_licensing_config_9c628658db0233006ea0e04a489619b6</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_3c32a519db0233006ea0e04a489619b8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-11 05:00:59</sys_updated_on>
+        <sys_updated_on>2019-06-13 05:52:53</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

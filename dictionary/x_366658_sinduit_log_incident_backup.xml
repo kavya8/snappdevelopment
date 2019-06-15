@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="hasLabels=true" label="log incident backup" max_length="40" name="x_366658_sinduit_log_incident_backup" type="collection">
+        <element label="refer to" max_length="32" name="facility_user" reference="incident" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
         <element label="number" max_length="40" name="number" type="integer"/>
         <element label="short description" max_length="100" name="short_description" type="string"/>
+        <index name="index">
+            <element name="facility_user"/>
+        </index>
     </element>
 </database>

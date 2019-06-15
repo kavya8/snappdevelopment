@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sys_class_name" table="x_366658_sinduit_computer_lab_incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>computer lab incident</label>
+            <language>en</language>
+            <name>x_366658_sinduit_computer_lab_incident</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 17:57:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4d0d8e9dbc633006ea0e04a489619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 17:57:17</sys_updated_on>
+            <value>x_366658_sinduit_computer_lab_incident</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <name>x_366658_sinduit_computer_lab_incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 17:57:17</sys_created_on>
+            <sys_id>fcd0d8e9dbc633006ea0e04a489619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_class_name</sys_name>
+            <sys_package display_value="sinduit" source="x_366658_sinduit">14db3d10db0233006ea0e04a48961938</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sinduit">14db3d10db0233006ea0e04a48961938</sys_scope>
+            <sys_update_name>sys_choice_x_366658_sinduit_computer_lab_incident_sys_class_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 17:57:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="computer lab incident" max_length="40" name="x_366658_sinduit_computer_lab_incident" type="collection">
+        <element choice="1" label="category" max_length="100" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="hardware" sequence="0" value="hardware"/>
+                <element inactive_on_update="false" label="software" sequence="1" value="software"/>
+                <element inactive_on_update="false" label="network" sequence="2" value="network"/>
+            </choice>
+        </element>
+    </element>
+</database>
